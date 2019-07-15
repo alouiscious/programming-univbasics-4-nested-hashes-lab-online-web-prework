@@ -97,7 +97,7 @@ programmer_hash[:yukihiro_matsumoto][:languages] = "LISP", "C"
 	# = ("Ruby", "languages")
 	#  = ["LISP", "C"]
 
-puts programmer_hash
+return programmer_hash
 return programmer_hash[:yukihiro_matsumoto]
 return programmer_hash[:yukihiro_matsumoto][:known_for]
 return programmer_hash[:yukihiro_matsumoto][:languages]
